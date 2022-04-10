@@ -1,0 +1,6 @@
+.appSwitcher {
+    position: fixed !important;
+    bottom: 25px !important;
+    right: 25px !important;
+    z-index: 100 !important;
+}
