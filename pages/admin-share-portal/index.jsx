@@ -109,7 +109,7 @@ const AdminPage = () => {
         <div className={styles.event}>
           <h3>Or create a new event and add snippets.</h3>
           <Input placeholder="Event name" />
-          <Button inline color="success">
+          <Button color="success">
             create event
           </Button>
         </div>
